@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 300;
+}
+
+h1,
+h3 {
+    background-color: #6591d5;
+}
