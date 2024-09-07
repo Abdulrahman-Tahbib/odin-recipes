@@ -2,6 +2,11 @@
     text-align: center;
 }
 
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
 img {
     height: auto;
     width: 300;
@@ -10,4 +15,23 @@ img {
 h1,
 h3 {
     background-color: #6591d5;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+.front-list {
+    display: inline-block;
+    background-color: #1f2d41;
+    padding: 10px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
 }
