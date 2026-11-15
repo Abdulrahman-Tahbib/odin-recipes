@@ -1,0 +1,46 @@
+@import url('https://googleapis.com');
+
+body {
+    font-family: Delius;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    background-image: url(./images/cocina.gif);
+    background-repeat: repeat;
+}
+
+
+ul,ol,p {
+    width: 500px;
+    margin: auto;
+}
+
+
+a {
+    display: block;
+    text-decoration: none;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f79090;
+    color: black;
+    border-radius: 16px;
+
+}
+
+img {
+    width: 500px;
+    border-radius: 16px;
+}
+
+.content {
+    
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    outline: solid #f79090;
+    width: 70%;
+    background-color: rgb(252, 240, 227);
+    border-radius: 16px;
+}
